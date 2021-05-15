@@ -1,0 +1,4 @@
+Rencana Konten
+
+- Membuat konten megnenai pemrograman di Youtube / Instagram
+- Mempelajari Framework Laravel
